@@ -1,13 +1,29 @@
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" />
+
+
 <h1>👋 Hi, I’m Nir Izhak </h1>
-<h4> 🌱 I’m currently learning Full Stack & Software Engineering.</h4>
-<h4>📫 You can reach me here, or here: www.linkedin.com/in/nir-izhak</h4>
+<h4>👨🏻‍💻 I’m currently learning Full Stack & Software Engineering.</h4>
+<h4>📫 You can reach me here: <a href="https://www.linkedin.com/in/nir-izhak/">Linkedin</a></h4>
+<h4>💻 My Portfolio ---> <a href="https://nirizhak.netlify.app/">Nir Izhak</a></h4>
 
-<h4> Language Tools: <h4>
-  <img src="https://camo.githubusercontent.com/7911c53f2f66424f2e58d69d4fcff2bc050458b5ac86115ba2c8b70fcb0ffa01/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f362f36312f48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672f3132303070782d48544d4c355f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" width="40px">
-  
-  <img src="https://camo.githubusercontent.com/9e1e581e471c46277e85998d1617041759f8fc1e1db091ee5415685a1a71ec92/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f435353335f6c6f676f5f616e645f776f72646d61726b2e7376672f3134353270782d435353335f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" width="30px">
+<hr>
 
+<h2> 🛠️ Languages and Tools </h2>
+<h6>Frontend:</h6>
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width="32">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width="32">
+</div>
+
+<h6>Backend & databases:</h6>
+<div style="display: flex;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" width="44">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="44">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="36">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" width="36">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-line.svg" width="36">
+</div>
   
-  <img src="https://camo.githubusercontent.com/a30d7492025ac65a67d91e4d6a4757ac1c193d8342829a8ddca216ba6788b14d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742d2d76322e706e67" width="40px">
-  
-  <img src="https://miro.medium.com/max/600/1*A_Hg7NPIoARg0RmdsVapqg.png" width="40px">
+ 
